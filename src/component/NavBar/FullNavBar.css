@@ -1,0 +1,15 @@
+.logo{
+    width: 125px;
+    height: 90px;
+}
+.searchBar{
+    margin-left: 20%;
+    margin-top: 25px;
+}
+.ant-input-lg{
+    border-radius: 50px;
+}
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child .ant-input-search-button {
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}

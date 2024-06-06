@@ -1,0 +1,18 @@
+.ant-btn-default{
+    color: #fdfdfd;
+    border-color: #c2c2c2;
+    background-color: #e2e2e2;
+}
+
+.button{
+    margin-top: 25px;
+    width: 140px;
+    height: 40px;
+    background: #434343;
+    border-color: #000000;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 200;
+    border-radius: 10px;
+    cursor: pointer;
+}

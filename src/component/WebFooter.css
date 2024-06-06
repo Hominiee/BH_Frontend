@@ -1,0 +1,42 @@
+.footerBackground{
+    background-color: #434343;
+    width: 100%;
+    
+}
+.hr1{
+    width: 100%;
+    color: #ffffffce;
+}
+.h3{
+    font-weight: 100;
+    text-align: left;
+    color: #ffffffde;
+    margin-left: 30px;
+}
+.pp{
+    font-weight: 100;
+    text-align: left;
+    color: #ffffffb4;
+    margin-left: 40px;
+}
+.p{
+    font-weight: 100;
+    text-align: left;
+    color: #ffffffb4;
+    margin-left: 10px;
+}
+.contactImg{
+    width: 17%;
+    height: 35%;
+    margin-top: 18px;
+    margin-left: 60px;
+}
+.bootom{
+    color: #ffffff67;
+    margin-top: -3px;
+    margin-bottom: 8px;
+    margin-left: 40%;
+}
+.row{
+    height: 15%;
+}
